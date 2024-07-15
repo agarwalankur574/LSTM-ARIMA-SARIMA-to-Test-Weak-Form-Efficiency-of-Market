@@ -1,0 +1,1 @@
+This project aims to test the weak form efficiency of a market using three different models: Long Short-Term Memory (LSTM), Seasonal AutoRegressive Integrated Moving Average (SARIMA), and AutoRegressive Integrated Moving Average (ARIMA). By analyzing historical price data, we can determine if past price information can predict future price movements.
